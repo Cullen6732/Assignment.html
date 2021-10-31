@@ -9,8 +9,10 @@ img {
   float: center;
 }
 
+
 p {
  text-align: center; 
+ font-weight: bold;
 }
 
 li {
